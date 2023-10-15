@@ -4,7 +4,7 @@ public class Main {
 
         int liczba = 5;
         long silnia = obliczenieSilni(liczba);
-        System.out.print("SIlnia z liczny" + liczba + "wynosi" + silnia);
+        System.out.print("SIlnia z liczby" + liczba + "wynosi = " + silnia);
     }
 
 
