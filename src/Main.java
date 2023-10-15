@@ -7,6 +7,7 @@ public class Main {
         System.out.print("SIlnia z liczny" + liczba + "wynosi" + silnia);
     }
 
+
         public static long obliczenieSilni(int n){
         if (n==0) {
             return 1;
